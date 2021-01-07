@@ -6,6 +6,9 @@
 
 ``` bash
 
+# install for production with minification
+npm install
+
 # build for production with minification
 npm run build
 ```
